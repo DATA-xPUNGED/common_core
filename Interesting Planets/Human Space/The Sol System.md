@@ -1,6 +1,10 @@
 ## Sol System
 Ah, Sol. The centre of human space, and the ancestral homeland of every human throughout the galaxy today. As is probably expected from the centre of a galactic empire, the Sol System is densely populated (mostly in the central band), heavily industrialised, and full of opportunity. In addition, it's easily the safest human territory one could choose to live in, as any attackers (or pirates) will rapidly find themselves under the guns of half the TerraGov fleet stationed above the Moon.
 
+### Terra: The Origins of Mankind
+
+#### Fact Sheet:
+* Being humanity's home planet, Terra contains invaluable historical
 ### Luna: The Lunar Free Territory
 
 #### Fact Sheet:
