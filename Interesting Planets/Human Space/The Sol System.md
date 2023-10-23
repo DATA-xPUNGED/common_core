@@ -3,8 +3,7 @@ Ah, Sol. The centre of human space, and the ancestral homeland of every human th
 
 ### Terra: The Origins of Mankind
 
-#### Fact Sheet:
-* Being humanity's home planet, Terra contains invaluable historical
+Terra, also known as Earth, is humanity's home planet, and boasts the highest average quality of life of the entire human space. With the development of carbon capture technologies and great donations, the 
 ### Luna: The Lunar Free Territory
 
 #### Fact Sheet:
