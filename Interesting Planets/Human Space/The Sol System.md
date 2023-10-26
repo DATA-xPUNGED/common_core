@@ -3,7 +3,10 @@ Ah, Sol. The centre of human space, and the ancestral homeland of every human th
 
 ### Terra: The Origins of Mankind
 
-Terra, also known as Earth, is humanity's home planet, and boasts the highest average quality of life of the entire human space. With the development of carbon capture technologies and great donations, the 
+#### Fact Sheet:
+* With the development of atmospheric technologies, interest of exporting CO2 for colonies, and the "offworlding" of 83% of the industry to planets with no environmental regulations, the levels of CO2 on the atmosphere have reverted to a state similar to the first industrial revolution, and global warming is seen as an issue of the past.
+
+Terra, also known as Earth, is humanity's home planet, and boasts the highest average quality of life of the entire human space. 
 ### Luna: The Lunar Free Territory
 
 #### Fact Sheet:
